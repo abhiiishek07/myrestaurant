@@ -1,0 +1,139 @@
+[
+    {
+        "category":"Breakfast",
+        "name": "Alo Paratha",
+        "image":"./images/Alo-paratha.jpg",
+        "price":"49"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Idli",
+        "image":"./images/idli.jpg",
+        "price":"49"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Puri Sabzi",
+        "image":"./images/puri-sabzi.jpg",
+        "price":"55"
+    },
+    {
+        "category":"Lunch",
+        "name":"Paneer Butter Masala",
+        "image":"./images/paneer.jpg",
+        "price":"159"
+    },
+    {
+        "category":"Lunch",
+        "name":"Chicken Biryani",
+        "image":"./images/biryani.jpg",
+        "price":"199"
+    },
+    {
+        "category":"Lunch",
+        "name":"Chicken Chilli",
+        "image":"./images/chicken-chilli.jpg",
+        "price":"129"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Omelette",
+        "image":"./images/omelete.jpg",
+        "price":"30"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Alo Paratha",
+        "image":"./images/Alo-paratha.jpg",
+        "price":"49"
+    },
+    
+    {
+        "category":"Breakfast",
+        "name": "Idli",
+        "image":"./images/idli.jpg",
+        "price":"49"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Puri Sabzi",
+        "image":"./images/puri-sabzi.jpg",
+        "price":"55"
+    },
+    {
+        "category":"Breakfast",
+        "name": "Omelette",
+        "image":"./images/omelete.jpg",
+        "price":"30"
+    },
+    {
+        "category":"Lunch",
+        "name":"Chicken Biryani",
+        "image":"./images/biryani.jpg",
+        "price":"199"
+    },
+    {
+        "category":"Lunch",
+        "name":"Chicken Chilli",
+        "image":"./images/chicken-chilli.jpg",
+        "price":"129"
+    },
+    
+    {
+        "category":"Lunch",
+        "name":"Paneer Butter Masala",
+        "image":"./images/paneer.jpg",
+        "price":"159"
+    },
+
+    {
+        "category":"Hi-Tea",
+        "name":"Samosa",
+        "image":"./images/samosa.webp",
+        "price":"10"
+    },
+    {
+        "category":"Hi-Tea",
+        "name":"Onion Pakoda",
+        "image":"./images/pakoda.jpg",
+        "price":"20"
+    },
+    
+    {
+        "category":"Hi-Tea",
+        "name":"Samosa",
+        "image":"./images/samosa.webp",
+        "price":"20"
+    },
+    {
+        "category":"Hi-Tea",
+        "name":"Onion Pakoda",
+        "image":"./images/pakoda.jpg",
+        "price":"20"
+    },
+    {
+        "category":"Dinner",
+        "name":"L",
+        "image":"./images/dinner.jpeg",
+        "price":"600"
+    },
+    {
+        "category":"Dessert",
+        "name":"Gulab Jamun",
+        "image":"./images/gulabJamun.jpg",
+        "price":"20"
+    },
+    {
+        "category":"Dessert",
+        "name":"Rasgulla",
+        "image":"./images/rasgulla.jpg",
+        "price":"20"
+    },
+    {
+        "category":"Dessert",
+        "name":"IceCream",
+        "image":"./images/icecream.jpg",
+        "price":"25"
+    }
+    
+]
